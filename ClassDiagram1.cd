@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="chess_aboguslawski.entities.Continuation">
+    <Position X="5.75" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAIAIAAAAAAAAAABAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>entities\Continuation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="chess_aboguslawski.services.Engine" Collapsed="true">
+    <Position X="10.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQCAAAAAAAIA=</HashCode>
+      <FileName>services\Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="chess_aboguslawski.services.EvaluationBar" Collapsed="true">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEgAAAAAAAAAAAAAAAAAAAAIAAAAAAQCAAAAAAAAI=</HashCode>
+      <FileName>services\EvaluationBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="chess_aboguslawski.services.FENConverter" Collapsed="true">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>services\FENConverter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

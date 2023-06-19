@@ -1,0 +1,17 @@
+C:\Users\Adam Bogusławski\Desktop\ches\chess-aboguslawski.exe
+C:\Users\Adam Bogusławski\Desktop\ches\chess-aboguslawski.dll
+C:\Users\Adam Bogusławski\Desktop\ches\chess-aboguslawski.deps.json
+C:\Users\Adam Bogusławski\Desktop\ches\chess-aboguslawski.runtimeconfig.json
+C:\Users\Adam Bogusławski\Desktop\ches\chess-aboguslawski.pdb
+C:\Users\Adam Bogusławski\Desktop\ches\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Adam Bogusławski\Desktop\ches\Microsoft.Extensions.Configuration.dll
+C:\Users\Adam Bogusławski\Desktop\ches\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Adam Bogusławski\Desktop\ches\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Adam Bogusławski\Desktop\ches\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Adam Bogusławski\Desktop\ches\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Adam Bogusławski\Desktop\ches\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Adam Bogusławski\Desktop\ches\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Adam Bogusławski\Desktop\ches\Microsoft.Extensions.Primitives.dll
+C:\Users\Adam Bogusławski\Desktop\ches\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Adam Bogusławski\Desktop\ches\System.Text.Encodings.Web.dll
+C:\Users\Adam Bogusławski\Desktop\ches\System.Text.Json.dll

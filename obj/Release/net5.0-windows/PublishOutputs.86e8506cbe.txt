@@ -1,0 +1,5 @@
+C:\Users\Adam Bogusławski\Desktop\ches\chess-aboguslawski.exe
+C:\Users\Adam Bogusławski\Desktop\ches\chess-aboguslawski.dll
+C:\Users\Adam Bogusławski\Desktop\ches\chess-aboguslawski.deps.json
+C:\Users\Adam Bogusławski\Desktop\ches\chess-aboguslawski.runtimeconfig.json
+C:\Users\Adam Bogusławski\Desktop\ches\chess-aboguslawski.pdb

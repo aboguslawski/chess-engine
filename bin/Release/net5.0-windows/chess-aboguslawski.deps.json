@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "chess-aboguslawski/1.0.0": {
+        "runtime": {
+          "chess-aboguslawski.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chess-aboguslawski/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

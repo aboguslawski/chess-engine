@@ -20,3 +20,16 @@ D:\chess-aboguslawski\chess-aboguslawski\chess-aboguslawski\obj\Debug\net5.0-win
 D:\chess-aboguslawski\chess-aboguslawski\chess-aboguslawski\obj\Debug\net5.0-windows\ref\chess-aboguslawski.dll
 D:\chess-aboguslawski\chess-aboguslawski\chess-aboguslawski\obj\Debug\net5.0-windows\chess-aboguslawski.pdb
 D:\chess-aboguslawski\chess-aboguslawski\chess-aboguslawski\obj\Debug\net5.0-windows\chess-aboguslawski.genruntimeconfig.cache
+D:\chess-aboguslawski\chess-aboguslawski\chess-aboguslawski\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\chess-aboguslawski\chess-aboguslawski\chess-aboguslawski\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\chess-aboguslawski\chess-aboguslawski\chess-aboguslawski\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\chess-aboguslawski\chess-aboguslawski\chess-aboguslawski\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\chess-aboguslawski\chess-aboguslawski\chess-aboguslawski\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\chess-aboguslawski\chess-aboguslawski\chess-aboguslawski\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\chess-aboguslawski\chess-aboguslawski\chess-aboguslawski\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\chess-aboguslawski\chess-aboguslawski\chess-aboguslawski\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\chess-aboguslawski\chess-aboguslawski\chess-aboguslawski\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\chess-aboguslawski\chess-aboguslawski\chess-aboguslawski\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+D:\chess-aboguslawski\chess-aboguslawski\chess-aboguslawski\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+D:\chess-aboguslawski\chess-aboguslawski\chess-aboguslawski\bin\Debug\net5.0-windows\System.Text.Json.dll
+D:\chess-aboguslawski\chess-aboguslawski\chess-aboguslawski\obj\Debug\net5.0-windows\chess-aboguslawski.csproj.CopyComplete
